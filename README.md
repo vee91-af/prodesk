@@ -1,6 +1,6 @@
 The main branch contains the assignment 1 <br>
 A landing page for a Prodesk IT brand <br>
-<img width="1920" height="1080" alt="Screenshot (107)" src="https://github.com/user-attachments/assets/ea07b1fd-10ed-4318-9f52-e9f257a0bad8" />
+<img width="1920" height="1080" alt="Screenshot (108)" src="https://github.com/user-attachments/assets/b2ca5463-c4d4-452a-9937-5f549123cd59" />
 <br>
 <img width="1920" height="1080" alt="Screenshot (111)" src="https://github.com/user-attachments/assets/aee410c3-df94-42df-9e3a-963700e1d2ee" />
 <br>
