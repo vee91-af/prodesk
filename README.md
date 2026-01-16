@@ -1,6 +1,6 @@
 Prodesk IT - Digital Marketing Agency Landing Page<br>
 A high-end, premium landing page designed for a fictional 2026 digital marketing agency. This project focuses on modern UI/UX trends, utilizing "Glassmorphism" and "Bento-grid" layouts to provide a sophisticated, performance-driven user experience.<br>
-Features
+Features<br>
 Premium Glassmorphism UI: High-end aesthetics featuring backdrop-filter blurs and translucent card designs.<br>
 
 Adaptive Theme Engine: A seamless Dark/Light mode toggle with persistence using localStorage.<br>
@@ -14,8 +14,7 @@ Modern Hero Section: Features a dynamic "Blob" background and high-conversion gr
 Bento-Style Services Grid: A modular, clean way to showcase agency offerings.<br>
 
 Functional Lead Capture: A validated contact form with real-time success state feedback.<br>
-
-🛠️ Tech Stack
+Tech Stack<br>
 HTML5: Semantic structure for optimal SEO and accessibility.<br>
 
 Pure CSS3: Advanced layouts using Grid and Flexbox. (No Bootstrap or Tailwind).<br>
