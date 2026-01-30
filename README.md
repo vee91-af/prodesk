@@ -37,8 +37,8 @@ A simple **Salary & Expense Tracker** web app.
 
 ---
 
-🕵️‍♂️ 1. Dev-Detective
-**Folder:** dev-detective
+### 🕵️‍♂️ 3.Dev-Detective
+**Folder:** dev-detective<br>
 A high-stakes GitHub Profile Intelligence & Battle web app.
 
 **Features:**<br>
