@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dev-Detective: Squid Game Edition</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="overlay"></div>
+    <main class="container">
+        <header>
+            <h1 class="logo">DEV<span>-</span>DETECTIVE</h1>
+            <div class="mode-toggle">
+                <button id="search-mode-btn" class="active">Search</button>
+                <button id="battle-mode-btn">Battle</button>
+            </div>
+        </header>
+
+        <section id="search-section" class="active-view">
+            <div class="search-box">
+                <input type="text" id="username-input" placeholder="Enter Username (e.g. octocat)">
+                <button id="search-btn">SCAN</button>
+            </div>
+            <div id="status-msg"></div>
+            <div id="profile-container"></div>
+        </section>
+
+        <section id="battle-section">
+            <div class="battle-inputs">
+                <input type="text" id="player1-input" placeholder="Player 1 Username">
+                <div class="vs-badge">VS</div>
+                <input type="text" id="player2-input" placeholder="Player 2 Username">
+            </div>
+            <button id="battle-btn">FIGHT</button>
+            <div id="battle-results"></div>
+        </section>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
