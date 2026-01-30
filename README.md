@@ -37,6 +37,24 @@ A simple **Salary & Expense Tracker** web app.
 
 ---
 
+🕵️‍♂️ 1. Dev-Detective
+**Folder:** dev-detective
+A high-stakes GitHub Profile Intelligence & Battle web app.
+
+**Features:**<br>
+-Deep-Scan Search: Instantly fetch and display any GitHub user’s profile, bio, and join date.<br>
+-Mission Log (Repos): Automatically retrieves the top 5 most recent repositories with human-readable date formatting.<br>
+-Battle Mode: Compare two developers simultaneously using parallel Async/Await requests to determine a winner based on stats.<br>
+-Squid Game Aesthetic: High-end UI featuring glassmorphism, custom CSS animations, and a "Player Pink" vs. "Guard Mint" color palette.<br>
+-Resilient Logic: Robust error handling for 404s and loading states to ensure the app never "crashes" during a search.<br>
+
+## 🎯 Purpose of This Repository
+
+-Master Asynchronous JS: Demonstrates proficiency in handling complex API calls, JSON parsing, and Promise.all logic.<br>
+-Professional UI/UX: Showcases the ability to take a client’s specific theme (Squid Game) and translate it into a clean, functional web interface.<br>
+-Data Visualization: Practices transforming raw, technical API data into a human-friendly format for end-users.<br>
+-Internship Readiness: Acts as a centerpiece for the GitHub portfolio to prove the ability to "talk" to external servers—a core requirement for modern IT roles.<br>
+
 ## 👩‍💻 Author
 
 **Vaishnavi**  
